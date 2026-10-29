@@ -1,0 +1,14 @@
+# 虚拟环境
+.venv/
+venv/
+
+# python缓存
+__pycache__/
+*.pyc
+
+# 日志文件（可选，如果你不想上传对话记录）
+conversation_log.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
